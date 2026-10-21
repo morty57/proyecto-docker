@@ -1,0 +1,28 @@
+# Variables de entorno
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Archivos temporales de editores
+*.swp
+*.swo
+
+# Entornos virtuales
+venv/
+.env/
+
+# Node (por si se usa algo frontend)
+node_modules/
+
+# MacOS
+.DS_Store
+
+# Docker
+*.tar

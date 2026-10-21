@@ -26,3 +26,4 @@ node_modules/
 
 # Docker
 *.tar
+minikube-darwin-amd64
